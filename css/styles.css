@@ -223,6 +223,7 @@ button:focus,
 svg {
     display: block;
     margin: auto;
+    width: 25%;
 }
 
 @keyframes color-effect {
